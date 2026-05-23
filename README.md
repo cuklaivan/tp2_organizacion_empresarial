@@ -1,8 +1,8 @@
 # Análisis de Datos Climáticos
 ## Integrantes
-- P1: Hugo (Líder)
-- P2: Paco (Desarrollador)
-- P3: Luis (QA)
+- P1: Hugo (Líder) - Ivan Abel Cukla
+- P2: Paco (Desarrollador) - Ivan Abel Cukla
+- P3: Luis (QA) - Ivan Abel Cukla
 
 ## Escenario
 Escenario A – Análisis de datos meteorológicos históricos.
