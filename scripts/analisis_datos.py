@@ -45,3 +45,10 @@ ax.legend()
 figura = ax.get_figure()
 figura.savefig(os.path.join("resultados", "grafico_temperatura.png"))
 print("Gráfico guardado en resultados/grafico_temperatura.png")
+
+# ==========================================
+# REVISIÓN P3 - Luis (QA) | Issue: TPU4-6
+# - Verificado: no se exponen credenciales ni rutas absolutas
+# - Verificado: gráfico guardado correctamente en /resultados
+# - Sugerencia: agregar manejo de excepciones para archivo faltante
+# ==========================================
